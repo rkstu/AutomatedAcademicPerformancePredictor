@@ -18,6 +18,7 @@ app = application
 @app.route('/',methods=['GET','POST'])
 def predict_datapoint():
     # print("Check out : http://127.0.0.1:5000/predictdata", )
+    
     if request.method=='GET':
         return render_template('index.html')
     else:
