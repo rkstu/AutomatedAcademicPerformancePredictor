@@ -42,9 +42,8 @@ conda activate venv
 pip install -r requirements.txt
 ```
 
-
+### STEP 03- Finally run the following command
 ```bash
-# Finally run the following command
 python application.py
 ```
 
