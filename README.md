@@ -1,5 +1,8 @@
 ## This is an End to End Automated Academic Performance Predictor Machine Learning Project
-Explore it live at https://automatedperformance.azurewebsites.net/
+
+Explore it live at http://mlautomate-env.eba-saf64am8.us-east-1.elasticbeanstalk.com/
+
+~~Explore it live at https://automatedperformance.azurewebsites.net/~~
 
 ![image](https://github.com/rkstu/AutomatedAcademicPerformancePredictor/assets/93584728/e6748b3b-c022-486d-9c72-adfb9acfa8c9)
 
