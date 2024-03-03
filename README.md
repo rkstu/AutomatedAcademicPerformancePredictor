@@ -1,6 +1,6 @@
 ## This is an End to End Automated Academic Performance Predictor Machine Learning Project
 
-Explore it live at http://mlautomate-env.eba-saf64am8.us-east-1.elasticbeanstalk.com/
+Explore it live at ~~http://mlautomate-env.eba-saf64am8.us-east-1.elasticbeanstalk.com/~~
 
 ~~Explore it live at https://automatedperformance.azurewebsites.net/~~
 
